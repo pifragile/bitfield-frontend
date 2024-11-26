@@ -10,8 +10,26 @@ import { DiamondIcon } from '@/components/DiamondIcon'
 import pieroImage from '@/images/avatars/piero.jpg'
 import yannickImage from '@/images/avatars/yannick.jpeg'
 import loroImage from '@/images/avatars/loro.jpeg'
+import chrigiImage from '@/images/avatars/christian.jpg'
+import jamieImage from '@/images/avatars/jamie.jpeg'
+
 
 const team = [
+  {
+    name: 'Christian Langenbacher',
+    role: 'Advisor Tech',
+    image: chrigiImage,
+  },
+  {
+    name: 'Jamie Jones',
+    role: 'Advisor Marketing',
+    image: jamieImage,
+  },
+  {
+    name: 'Laurent Aeberli',
+    role: 'Advisor Strategy',
+    image: loroImage,
+  },
   {
     name: 'Piero Guicciardi',
     role: 'Founder',
@@ -19,13 +37,8 @@ const team = [
   },
   {
     name: 'Yannick Steitz',
-    role: 'Advisor Marketing',
+    role: 'Advisor Community',
     image: yannickImage,
-  },
-  {
-    name: 'Laurent Aeberli',
-    role: 'Advisor Strategy',
-    image: loroImage,
   },
 ]
 // const days = [
