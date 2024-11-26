@@ -7,11 +7,11 @@ import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
 import { DiamondIcon } from '@/components/DiamondIcon'
-import pieroImage from '@/images/avatars/piero.jpg'
-import yannickImage from '@/images/avatars/yannick.jpeg'
-import loroImage from '@/images/avatars/loro.jpeg'
-import chrigiImage from '@/images/avatars/christian.jpg'
-import jamieImage from '@/images/avatars/jamie.jpeg'
+import pieroImage from '../images/avatars/piero.jpg'
+import yannickImage from '../images/avatars/yannick.jpeg'
+import loroImage from '../images/avatars/loro.jpeg'
+import chrigiImage from '../images/avatars/christian.jpg'
+import jamieImage from '../images/avatars/jamie.jpeg'
 
 
 const team = [
