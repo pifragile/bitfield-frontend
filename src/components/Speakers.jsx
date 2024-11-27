@@ -10,7 +10,7 @@ import { DiamondIcon } from '@/components/DiamondIcon'
 import pieroImage from '../images/avatars/piero1.jpg'
 import yannickImage from '../images/avatars/yannick.jpeg'
 import loroImage from '../images/avatars/loro.jpeg'
-import chrigiImage from '../images/avatars/christian.jpg'
+import chrigiImage from '../images/avatars/christian.png'
 import jamieImage from '../images/avatars/jamie.jpeg'
 
 
