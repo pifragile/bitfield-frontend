@@ -11,7 +11,7 @@ export function Research() {
         </h2>
         <p className="mt-4 font-display text-2xl tracking-tight text-blue-900">
           Supported by the Web3 foundation we conducted an Ecosystem research
-          study and proposed technical implmentation designs. You can find the
+          study and proposed technical implementation designs. You can find the
           article below.
         </p>
 
