@@ -75,7 +75,7 @@ export function Newsletter() {
               </p>
               <p className="mt-4 text-lg tracking-tight text-blue-900">
                 Get updates on all of our project and be the first to get
-                notified when there's news.
+                notified when there&apos;s news.
               </p>
             </div>
             <form onSubmit={handleSubmit}>
